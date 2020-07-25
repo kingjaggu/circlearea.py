@@ -1,0 +1,2 @@
+input("input the radius of the circle",rad)
+print('the area of the circle with radius',rad,'is:',3.14*rad*rad)
